@@ -4,7 +4,7 @@
 
 ## See it in action
 
-[astro-biolink-kit.vercel.app/](https://astro-biolink-kit.vercel.app/)
+[biolink-kit.pages.dev/](https://biolink-kit.pages.dev/)
 
 ## Clone this repo
 
